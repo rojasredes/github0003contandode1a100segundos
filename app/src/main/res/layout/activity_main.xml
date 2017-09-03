@@ -7,6 +7,7 @@
     tools:context="com.rojasdelgado.github0003contandode1a100segundos.MainActivity">
 
     <TextView
+        android:id="@+id/etiqueta"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Contando de 1 a 100"
